@@ -92,8 +92,4 @@
 
     <content src="index.html" />
     <access origin="*" subdomains="true" />
-    <access origin="*.pushwoosh.com"/>
-    <preference name="android-build-tool" value="gradle" />
-    <gap:plugin name="pushwoosh-beacons-cordova-plugin" source="npm" />
-
 </widget>
